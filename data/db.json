@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+
+  "data": [
+    {
+      "title": "Mudassir",
+      "description": "Default Description",
+      "price": "8906",
+      "id": 7
+    },
+    {
+      "title": "Manchester",
+      "description": "Desc",
+      "price": "45",
+      "id": 20
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "muds@gmai.com",
+      "password": "$2a$10$DaQorwmhFhXGaHvorAelIuGIW6Dd0Cr/eiwzTVzITv39uc3bhaYgO",
+      "id": 1
+    },
+    {
+      "email": "mudr@gmai.com",
+      "password": "$2a$10$JeocCcaRsQhikC0VvuzH6.eMXjm6aDFuYBK5lj70qx3QUSvCsSkum",
+      "id": 2
+    },
+    {
+      "email": "mudsdf@gmail.com",
+      "password": "$2a$10$fMRc/EW5uHp1Q99fuI9uRO8XuAIHXNgaA4nZhVF3kukZYOLhtIziC",
+      "id": 3
+    },
+    {
+      "email": "mudsdfsfs@gmai.com",
+      "password": "$2a$10$Vl2bo4/o7L9rNO8v0gpu5uSc47cqgieF.ZkgXWefs0lJnL1bJaM0.",
+      "id": 4
+    },
+    {
+      "email": "muds35@gmai.com",
+      "password": "$2a$10$Z9.xzaq4gCDRCoiqjvdnveQLtkmvoeSU7Hcllsu1BBiHId0jDOnmi",
+      "id": 5
+    },
+    {
+      "email": "mudsjkj@gmai.com",
+      "password": "$2a$10$S9I8bzoe/xoG8nOmhgT8ouHhztkXpoapyb7Sf3YQL8CNaRA7fVuvO",
+      "id": 6
+    },
+    {
+      "email": "mudscbvc@gmai.com",
+      "password": "$2a$10$rW3.momLvR/sU7au8zpTAOQS2K3EfpmcdztqESIdUAipSjfzmYu2W",
+      "id": 7
+    },
+    {
+      "email": "mudsddsff@gmail.com",
+      "password": "$2a$10$fvp2sPEwTQ0MeO3forHQ6.Mo.fP4RenIq/m/0FPDx03AZKMoIVaRC",
+      "id": 8
+    },
+    {
+      "email": "mudsddsdfff@gmail.com",
+      "password": "$2a$10$EAj0r3QarYO5OC2Botqx/ew6.2IZ7cJYMrNx25G5v1YKpO.NWrTN.",
+      "id": 9
+    },
+    {
+      "email": "mudszmdu@gmai.com",
+      "password": "$2a$10$i6F7hSGewOL3caLNZV5PTejFTGO94UZ9pHjFx.9itwHl5qjzLICPC",
+      "id": 10
+    },
+    {
+      "email": "muds8408305834@gmai.com",
+      "password": "$2a$10$TLO7w0cdUYnktPYhRChq0eFI/uWjlA0HiBvX03XFCEASq6brvvUlW",
+      "id": 11
+    },
+    {
+      "email": "muds840830dfd5834@gmai.com",
+      "password": "$2a$10$WoWOAsOaWwNicgX4vxRkJ.EGLtLDj/YoghQ.IC1qOl8QxbTRB4Ah2",
+      "id": 12
+    },
+    {
+      "email": "mudterotierterts@gmai.com",
+      "password": "$2a$10$LuSYlzhc73pZY/wMwEsnC.h4FcC/YqgvfuIo3XTnHUeVoTRAYx89O",
+      "id": 13
+    },
+    {
+      "email": "mudterodfsdftierterts@gmai.com",
+      "password": "$2a$10$SdVYv.Lkrf9unwx2.WJD7uQ3OZmyPTCZ.NoOspzLhULGydTwjkSpu",
+      "id": 14
+    },
+    {
+      "email": "mud34453s@gmai.com",
+      "password": "$2a$10$TQahI2Q2CD6AIs5ntw7lFOvpaayFsNvqSSJC2.niihmmfGKr4z80G",
+      "id": 15
+    },
+    {
+      "email": "muddfsfasfasfs@gmai.com",
+      "password": "$2a$10$DVavbCr8FpaV5zPZSUFgTOdoSE.bX3z.tqE5PLiIN43zEvY.HJINC",
+      "id": 16
+    },
+    {
+      "email": "mudsfafds@gmai.com",
+      "password": "$2a$10$o5F4x0upRQtX91cZ7m2RzOih8roTncykDorVohA2hHVLbsnJrZzuO",
+      "id": 17
+    },
+    {
+      "email": "m45645uds@gmai.com",
+      "password": "$2a$10$nyoQlgTQQ5XEUsv5la.k4uqDISF8yj21V.QJWU3.p84MOnaIx1E7S",
+      "id": 18
+    },
+    {
+      "email": "mkjhfkshf48uds@gmai.com",
+      "password": "$2a$10$Runnkf/3sdCT2uqlcs7jIeiOVhgvmn.U1Yme7scuIXuabKxGbGTMe",
+      "id": 19
+    },
+    {
+      "email": "mudsdsfasfouf@gmai.com",
+      "password": "$2a$10$5cXygDimptzzrCGUW3BcieEDkohXrz1Ct1xCTPHJJhw2REcJY4nIy",
+      "id": 20
+    },
+    {
+      "email": "mudssir@gmai.com",
+      "password": "$2a$10$ogmjqsfQPRa./EmRRNqAoO3./b4XcuYmsuutLzz93GTjGZq5lyc/i",
+      "id": 21
+    },
+    {
+      "email": "mudssir@gmail.com",
+      "password": "$2a$10$TA.4gcU5pE4xKdH.C/pFnu417HEE6tDujMV2GpXfLMWW6tnQnQSnm",
+      "id": 22
+    }
+  ]
+}
